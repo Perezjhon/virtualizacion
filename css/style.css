@@ -3,10 +3,6 @@ h1{
         font-size: 60px;
 
 }
-body {
-
-    background-color: rgb(255, 255, 255);    
-}
 
 
 nav{
@@ -21,8 +17,13 @@ nav{
 }
 
 body {
-        background-color: #000;
+        background-image: url('https://png.pngtree.com/background/20230901/original/pngtree-virtualization-of-the-processor-wallpaper-backdrop-illustration-photo-picture-image_4911517.jpg');
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: cover;
+        color: ffffff;
 
+        
 }
 
 #header {
